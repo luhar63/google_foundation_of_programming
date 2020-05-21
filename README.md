@@ -7,3 +7,5 @@ question_1 - [Find longest word in dictionary that is a subsequence of a given s
 question_2 - [withoutString problem](https://techdevguide.withgoogle.com/paths/foundational/withoutstring-problem-strings-base-remove-return/)
 
 question_3 - [sumNumbers problem](https://techdevguide.withgoogle.com/paths/foundational/subnumbers-problem-string-return-sum)
+
+question_4 - [canBalance problem](https://techdevguide.withgoogle.com/paths/foundational/canbalance-problem-arrays-non-empty)

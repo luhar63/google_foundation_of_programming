@@ -20,6 +20,6 @@ public class Solution{
     }
     public static void main(String[] arg){
         Solution solution = new Solution();
-        System.out.println(solution.sumNumbers("abc123xyz"));
+        System.out.println(solution.sumNumbers("abc123xyz23"));
     }
 }
