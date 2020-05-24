@@ -7,8 +7,6 @@ public class Solution{
     String removelow = remove.toLowerCase();
     String ss = "";
     while(bi < blen){
-        int ci = bi;
-        int ri=0;
         if((bi+rlen <= blen) && baselow.substring(bi, bi+rlen).equals(removelow)){
         // if(baselow.charAt(bi)==removelow.charAt(ri)) {
         // while(ri<remove.length() && baselow.charAt(ci)==removelow.charAt(ri)) {

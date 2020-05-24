@@ -9,3 +9,5 @@ question_2 - [withoutString problem](https://techdevguide.withgoogle.com/paths/f
 question_3 - [sumNumbers problem](https://techdevguide.withgoogle.com/paths/foundational/subnumbers-problem-string-return-sum)
 
 question_4 - [canBalance problem](https://techdevguide.withgoogle.com/paths/foundational/canbalance-problem-arrays-non-empty)
+
+question_5 - [Hangman Part 1: Challenge](https://techdevguide.withgoogle.com/paths/foundational/hangman-challenge-archetypal)
