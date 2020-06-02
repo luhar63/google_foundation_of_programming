@@ -13,3 +13,5 @@ question_4 - [canBalance problem](https://techdevguide.withgoogle.com/paths/foun
 question_5 - [Hangman Part 1: Challenge](https://techdevguide.withgoogle.com/paths/foundational/hangman-challenge-archetypal)
 
 question_6 - [Hangman Part 2: One open source solution](https://techdevguide.withgoogle.com/paths/foundational/hangman-solutions-open-source-answer)
+
+question_7 - [Sort array problem](https://techdevguide.withgoogle.com/paths/foundational/array-sort-problem-sorted-values/)
