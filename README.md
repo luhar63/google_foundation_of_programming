@@ -15,3 +15,5 @@ question_5 - [Hangman Part 1: Challenge](https://techdevguide.withgoogle.com/pat
 question_6 - [Hangman Part 2: One open source solution](https://techdevguide.withgoogle.com/paths/foundational/hangman-solutions-open-source-answer)
 
 question_7 - [Sort array problem](https://techdevguide.withgoogle.com/paths/foundational/array-sort-problem-sorted-values/)
+
+question_8 - [Simple interpreter problem-solving, in Java](https://techdevguide.withgoogle.com/paths/foundational/interpreter-problem-for-java)
