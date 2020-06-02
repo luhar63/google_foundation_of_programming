@@ -17,3 +17,5 @@ question_6 - [Hangman Part 2: One open source solution](https://techdevguide.wit
 question_7 - [Sort array problem](https://techdevguide.withgoogle.com/paths/foundational/array-sort-problem-sorted-values/)
 
 question_8 - [Simple interpreter problem-solving, in Java](https://techdevguide.withgoogle.com/paths/foundational/interpreter-problem-for-java)
+
+question_8 - [Simple interpreter problem-solving, in Python](https://techdevguide.withgoogle.com/paths/foundational/interpreter-problems-for-python)
