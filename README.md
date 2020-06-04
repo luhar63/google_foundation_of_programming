@@ -18,4 +18,6 @@ question_7 - [Sort array problem](https://techdevguide.withgoogle.com/paths/foun
 
 question_8 - [Simple interpreter problem-solving, in Java](https://techdevguide.withgoogle.com/paths/foundational/interpreter-problem-for-java)
 
-question_8 - [Simple interpreter problem-solving, in Python](https://techdevguide.withgoogle.com/paths/foundational/interpreter-problems-for-python)
+question_9 - [Simple interpreter problem-solving, in Python](https://techdevguide.withgoogle.com/paths/foundational/interpreter-problems-for-python)
+
+question_10 - [wordLen problem](https://techdevguide.withgoogle.com/paths/foundational/wordlen-problems-array-strings-medium/)
