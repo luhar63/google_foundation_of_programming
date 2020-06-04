@@ -21,3 +21,5 @@ question_8 - [Simple interpreter problem-solving, in Java](https://techdevguide.
 question_9 - [Simple interpreter problem-solving, in Python](https://techdevguide.withgoogle.com/paths/foundational/interpreter-problems-for-python)
 
 question_10 - [wordLen problem](https://techdevguide.withgoogle.com/paths/foundational/wordlen-problems-array-strings-medium/)
+
+question_10 - [Pairs problem](https://techdevguide.withgoogle.com/paths/foundational/pairs-problem-classic-algorithm-hard/)
