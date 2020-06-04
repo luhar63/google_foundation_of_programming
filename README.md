@@ -22,4 +22,6 @@ question_9 - [Simple interpreter problem-solving, in Python](https://techdevguid
 
 question_10 - [wordLen problem](https://techdevguide.withgoogle.com/paths/foundational/wordlen-problems-array-strings-medium/)
 
-question_10 - [Pairs problem](https://techdevguide.withgoogle.com/paths/foundational/pairs-problem-classic-algorithm-hard/)
+question_11 - [Pairs problem](https://techdevguide.withgoogle.com/paths/foundational/pairs-problem-classic-algorithm-hard/)
+
+question_12 - [wordCount problem](https://techdevguide.withgoogle.com/paths/foundational/wordcount-problem-classic-algorithm-hard)
