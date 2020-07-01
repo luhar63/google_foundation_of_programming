@@ -27,3 +27,5 @@ question_11 - [Pairs problem](https://techdevguide.withgoogle.com/paths/foundati
 question_12 - [wordCount problem](https://techdevguide.withgoogle.com/paths/foundational/wordcount-problem-classic-algorithm-hard)
 
 question_13 - [encoder problem](https://techdevguide.withgoogle.com/paths/foundational/encoder-problem-hard)
+
+question_14 - [blackjack problem](https://techdevguide.withgoogle.com/paths/foundational/software-debugging-warmup)
