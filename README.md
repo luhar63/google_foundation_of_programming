@@ -29,3 +29,5 @@ question_12 - [wordCount problem](https://techdevguide.withgoogle.com/paths/foun
 question_13 - [encoder problem](https://techdevguide.withgoogle.com/paths/foundational/encoder-problem-hard)
 
 question_14 - [blackjack problem](https://techdevguide.withgoogle.com/paths/foundational/software-debugging-warmup)
+
+question_14 - [evenlySpaced problem](https://techdevguide.withgoogle.com/paths/foundational/evenlyspaced-problem-medium/)
