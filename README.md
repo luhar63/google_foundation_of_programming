@@ -30,4 +30,6 @@ question_13 - [encoder problem](https://techdevguide.withgoogle.com/paths/founda
 
 question_14 - [blackjack problem](https://techdevguide.withgoogle.com/paths/foundational/software-debugging-warmup)
 
-question_14 - [evenlySpaced problem](https://techdevguide.withgoogle.com/paths/foundational/evenlyspaced-problem-medium/)
+question_15 - [evenlySpaced problem](https://techdevguide.withgoogle.com/paths/foundational/evenlyspaced-problem-medium/)
+
+question_16 - [makeBricks problem](https://techdevguide.withgoogle.com/paths/foundational/makebricks-problem)
