@@ -1,4 +1,4 @@
-##Hangman Part 1: Challenge
+## Hangman Part 1: Challenge
 
 Ready to play? In this quintessential project, you’ll write a program that plays the childhood word game, Hangman. Get ready to manipulate strings and files on your way to creating the graphics for this classic console-based game.
 
